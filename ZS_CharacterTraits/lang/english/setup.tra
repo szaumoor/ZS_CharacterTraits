@@ -1,0 +1,76 @@
+@0 = ~Install ZS_CharacterTraits~
+
+
+
+@50 = ~This mod is only available for IWDEE/BGEE/BG2EE/EET.~
+
+
+@100 = ~Psychological Traits~
+@101 = ~Psychopathic~
+@102 = ~Psychopathic
+Psychopaths are cold-blooded and calculating individuals who are not easily swayed by emotions. Their fearlessness makes them highly effective in combat, but this lack of awareness can also make them reckless and impulsive.
+
+STATISTICS:
+
+– Immunity to morale failure
+– +1 saves vs. Enchantment spells
+– -2 Wisdom~
+
+@110 = ~Autistic~
+@111 = ~Autistic
+Autistic individuals are often misunderstood and have difficulty understanding social cues, but they also have a tendency to be highly focused and detail-oriented, which can manifest as a higher-than-normal Intelligence, especially for logic and wizardry.
+
+STATISTICS:
+
+– +1 Intelligence
+– -1 Charisma~
+
+@120 = ~Narcissistic~
+@121 = ~Narcissistic
+Narcissists are self-absorbed and have an inflated sense of self-importance. They are often charming and charismatic, but they can also be manipulative, delusional, and lack empathy.
+
+STATISTICS:
+
+– +1 Charisma
+– -1 Wisdom~
+
+@130 = ~Schizophrenic~
+@131 = ~Schizophrenic
+Schizophrenics have a distorted perception of reality and often experience hallucinations, delusions, and disorganized thinking. They can be highly creative and imaginative, but they can also be paranoid and unpredictable.
+
+STATISTICS:
+
+– -1 to saves vs. Enchantment and Illusion effects
+– -10% to Detect Illusions
+– ?? ~
+
+@140 = ~Anxious~
+@141 = ~Anxious
+Anxious individuals are prone to excessive worry, fear, and nervousness. They can be highly sensitive and alert, but they can also be indecisive, insecure, and easily overwhelmed.
+
+STATISTICS:
+
+– Morale failure happens more easily
+– +10% to Find Traps
+– +5% to Detect Illusions~
+
+
+@1000 = ~Physical traits~
+
+@1010 = ~Small frame~
+@1011 = ~Small frame
+Individuals with a small frame are physically weaker and more fragile than average, but they are also more agile and nimble.
+
+STATISTICS:
+
+– +1 Dexterity
+– +1 Armor Class
+– -1 Strength
+– -1 Constitution~
+
+
+
+
+
+
+
