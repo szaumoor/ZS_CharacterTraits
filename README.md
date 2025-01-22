@@ -30,5 +30,5 @@ But do report if something is found.
 
 ## Acknowledgements and credits
 
-Everyone on discord for being generally helpful.
+Everyone on Discord for being generally helpful.
 
