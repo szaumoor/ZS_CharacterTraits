@@ -65,12 +65,41 @@ STATISTICS:
 
 – +1 Dexterity
 – +1 Armor Class
+– +1 to saves vs. Breath
 – -1 Strength
-– -1 Constitution~
+– -1 Constitution
+– -5% resistance to all sources of damage~
 
 
+@1001 = ~Good Learner~
+@1002 = ~Good Learner
+Good learners have a natural aptitude for acquiring new knowledge and skills. They are quick to adapt and learn from their experiences.
+
+STATISTICS:
+
+– +10 Lore
+– +5% to all experience obtained~
+
+@1001 = ~Fast Hands~
+@1002 = ~Fast Hands
+Individuals with fast hands can attack more often in combat, but they are also more likely to fumble and miss their targets.
+
+STATISTICS:
+
+– +1/2 attacks per round
+– -2 to base THAC0~
 
 
+@1001 = ~Spellcasting Prodigy~
+@1002 = ~Spellcasting Prodigy
+Your natural talent for magic allows you to cast spells more effectively than others but you level up more slowly.
 
+STATISTICS:
+
+– Wizard and cleric spells are cast as if you were 2 levels higher
+– -8% to all experience obtained~
+
+
+// todo optional component: make sharteel have the previous trait
 
 
